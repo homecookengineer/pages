@@ -168,14 +168,5 @@
       <enclosure url="https://audio.hkfm903.live/Bad%20Girl%E5%A4%A7%E9%81%8E%E4%BD%AC/20261020_1009_Bad_Girl%E5%A4%A7%E9%81%8E%E4%BD%AC.aac" type="audio/aac" length="54855839" />
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Bad Girl大過佬 - 2026-10-19</title>
-      <category>Bad Girl大過佬</category>
-      <description>Bad Girl大過佬 - 2026-10-19</description>
-      <link>https://audio.hkfm903.live/Bad%20Girl%E5%A4%A7%E9%81%8E%E4%BD%AC/20261019_1009_Bad_Girl%E5%A4%A7%E9%81%8E%E4%BD%AC.aac</link>
-      <guid>https://audio.hkfm903.live/Bad%20Girl%E5%A4%A7%E9%81%8E%E4%BD%AC/20261019_1009_Bad_Girl%E5%A4%A7%E9%81%8E%E4%BD%AC.aac</guid>
-      <enclosure url="https://audio.hkfm903.live/Bad%20Girl%E5%A4%A7%E9%81%8E%E4%BD%AC/20261019_1009_Bad_Girl%E5%A4%A7%E9%81%8E%E4%BD%AC.aac" type="audio/aac" length="54856096" />
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-  <itunes:author>叱咤903</itunes:author><itunes:summary>Bad Girl 大過佬 — filtered from the 叱咤903 Archive feed.</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Comedy" /></channel>
+    <itunes:author>叱咤903</itunes:author><itunes:summary>Bad Girl 大過佬 — filtered from the 叱咤903 Archive feed.</itunes:summary><itunes:explicit>no</itunes:explicit><itunes:category text="Comedy" /></channel>
 </rss>
